@@ -60,7 +60,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shiva-shukla-873295243/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shiva-shukla-873295243/)
+
 
 ---
 
