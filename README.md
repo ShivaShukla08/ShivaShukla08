@@ -37,12 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - OOPs in C++
 - Tools: Git, GitHub, Postman, AWS, Linux, Docker, VS Code
 - Soft Skills: Problem Solving, Team Work, Proactive Development
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
-
+- 
 ## 🏆 Achievements
 
 - LeetCode: Among top 2.8% (Max Rating: 1996)
