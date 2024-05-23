@@ -1,6 +1,6 @@
 # Hello, I'm Shiva Shukla 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in competitive coding, algorithms optimization, and backend development. Here you'll find a variety of projects that showcase my skills and interests.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Data Structures and Algorithms, algorithms optimization, and backend development. Here you'll find a skills and interests.
 
 ## 📘 About Me
 
@@ -58,32 +58,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - Selected as a trainee under PwC Acceleration Centers Analytics Insights Launchpad program.
 - Received training on Programming, RDBMS, and IT Fundamentals Concepts.
 
-## 📂 Projects
-
-### Featured Projects
-
-- [**Quiz Portal**](link-to-repo) (Jan 2024 - Mar 2024)  
-  An interactive platform for teachers to create quizzes and for students to engage in dynamic learning through instant feedback.  
-  **Techstack**: Python Django, SQLITE, HTML, CSS, JavaScript
-
-- [**Threat Intel Provider**](link-to-repo) (July 2022 - Aug 2022)  
-  Extracts threat intelligence from sites, performs enrichment using API tools, and calculates confidence scores. Data exportable in CSV and Excel.  
-  **Techstack**: C++, CMAKE, API, HTTP REQUEST, SQLITE
-
-- [**Image Steganography**](link-to-repo) (Dec 2021 - Jan 2022)  
-  Implemented Image Steganography for hiding text inside images using the Least Significant Bit (LSB) algorithm.  
-  **Techstack**: Java
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](your-github-url)
-
-## 🤝 Support
-
-If you like what I do, consider supporting me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](your-buymeacoffee-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/shiva-shukla-873295243/))
 
 ---
 
