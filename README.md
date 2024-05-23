@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 👯 I’m looking to collaborate on backend development and competitive coding projects.
 - 💬 Ask me about problem-solving, team work, and proactive development strategies.
 - 📫 How to reach me: [shivashuklamfk@gmail.com](mailto:shivashuklamfk@gmail.com)
-- ⚡ Fun fact: I love optimizing algorithms and participating in coding competitions.
+- ⚡ Fun fact: I love participating in coding competitions.
 
 ## 🔧 Technologies & Tools
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - OOPs in C++
 - Tools: Git, GitHub, Postman, AWS, Linux, Docker, VS Code
 - Soft Skills: Problem Solving, Team Work, Proactive Development
-- 
+  
 ## 🏆 Achievements
 
 - LeetCode: Among top 2.8% (Max Rating: 1996)
