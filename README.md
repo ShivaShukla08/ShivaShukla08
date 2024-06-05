@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📘 About Me
 
-- 🎓 Bachelor of Technology in Computer Science from University of Petroleum and Energy Studies (UPES Dehradun), India (2020 - 2024) | CGPA: 8.56/10.0
-- 🔭 I’m currently working on various projects involving Python, Django, and system design.
-- 🌱 I’m currently learning advanced backend development and system design concepts.
+- 🎓 Bachelor of Technology in Computer Science from University of Petroleum and Energy Studies (UPES Dehradun), India (2020 - 2024) | CGPA: 8.6/10.0
+- 🔭 I’m currently learning Backend Development using Node.js.
+- 🔭 I have worked on various projects involving Python, Django, and system design.
 - 👯 I’m looking to collaborate on backend development and competitive coding projects.
 - 💬 Ask me about problem-solving, team work, and proactive development strategies.
 - 📫 How to reach me: [shivashuklamfk@gmail.com](mailto:shivashuklamfk@gmail.com)
